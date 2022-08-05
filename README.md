@@ -11,6 +11,14 @@
 ![image](https://user-images.githubusercontent.com/76603653/183006476-25ebc4a0-be66-47ab-a6c6-4f78007220f2.png)
 
 
+ - To Do List
+   - Slider control for Presentation
+   - Zoom Control
+   - Control Play Files 
+   - Change Pointer Type
+   - Set Black / White Screen
+   -Current Status
+
 # Features
 Control your PowerPoint presentation with TouchPortal
 
