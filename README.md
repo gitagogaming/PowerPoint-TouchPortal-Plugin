@@ -3,6 +3,7 @@
   - [Features](#features)
     - [Actions](#actions)
     - [States](#states)
+    - [To-Do](#to-do-list)
   - [Bugs and Support](#bugs-and-suggestion)
 
   
@@ -12,13 +13,6 @@ Control your PowerPoint presentation with TouchPortal
 ![image](https://user-images.githubusercontent.com/76603653/183006476-25ebc4a0-be66-47ab-a6c6-4f78007220f2.png)
 
 
- - To Do List
-   - Slider control for Presentation
-   - Zoom Control
-   - Control Play Files 
-   - Change Pointer Type
-   - Set Black / White Screen
-   -Current Status
 
 # Features
 
@@ -62,4 +56,12 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
 - The presentation title won't load unless TP loads the presentation file for you
 
 
+# To Do List
+   - To Do List
+   - Slider control for Presentation
+   - Zoom Control
+   - Control Play Files 
+   - Change Pointer Type
+   - Set Black / White Screen
+   -Current Status
 
