@@ -1,7 +1,3 @@
-# PowerPoint-Touchportal-Private
-
-
-
 # PowerPoint Plugin - For TouchPortal
   - [Description](#description) 
   - [Features](#features)
