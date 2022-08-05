@@ -45,18 +45,13 @@ Control your PowerPoint presentation with TouchPortal
 | .state.elapsed_time_slide | Total Time on Slide | Elapsed Time Slide |  |   
 </details>
 
-<br>
-
-# Bugs and Suggestion
-Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
 
 ## Known Issues:
 - The Time Total for Current Slide and Presentation does not currently function.
 - The presentation title won't load unless TP loads the presentation file for you
 
-
-
+  
 ## To Do List
    - Slider control for Presentation
    - Zoom Control
@@ -65,3 +60,5 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
    - Set Black / White Screen
    -Current Status
 
+### Bugs and Suggestion
+Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
