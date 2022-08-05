@@ -13,6 +13,8 @@ Control your PowerPoint presentation with TouchPortal
 
 
 ## Actions
+<details open id='gitago.powerpoint.actions'><summary><b>Category:</b> Plugin Actions <small><ins>(Click to expand)</ins></small></summary>
+  
 |Action Name|Description|Format|
 |---|---|---|
 | Open Presentation | Load the presentation | 1. Type: text &nbsp;<empty>|
@@ -24,11 +26,11 @@ Control your PowerPoint presentation with TouchPortal
 |Go to Slide |Proceed to Slide [X] |1.  Type: text &nbsp;<empty>|
 |Exit Slides |Exit Current Slideshow|1.  Type: text &nbsp;<empty>|
 |Minimize / Maximize Powerpoint |Change Powerpoint Display to [X]|1.  Type: choice **** Possible choices: ['Minimize', 'Maximize', 'Visible']|
-
+</details>
 
 
 ## States
-<details open id='gitago.powerpoint.mainstates'><summary><b>Category:</b> PowerPoint <small><ins>(Click to expand)</ins></small></summary>
+<details open id='gitago.powerpoint.mainstates'><summary><b>Category:</b> Plugin States <small><ins>(Click to expand)</ins></small></summary>
 
 
 | Id | Description | DefaultValue | 
