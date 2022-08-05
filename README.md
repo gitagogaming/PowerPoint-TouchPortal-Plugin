@@ -9,7 +9,7 @@
   
 # Description
 Control your PowerPoint presentation with TouchPortal
-## The Plugin Sample Page
+### The Plugin Sample Page
 ![image](https://user-images.githubusercontent.com/76603653/183006476-25ebc4a0-be66-47ab-a6c6-4f78007220f2.png)
 
 
