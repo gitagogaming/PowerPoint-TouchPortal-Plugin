@@ -50,13 +50,14 @@ Control your PowerPoint presentation with TouchPortal
 # Bugs and Suggestion
 Open an issue on github or join offical [TouchPortal Discord](https://discord.gg/MgxQb8r) for support.
 
+
 ## Known Issues:
 - The Time Total for Current Slide and Presentation does not currently function.
-
 - The presentation title won't load unless TP loads the presentation file for you
 
 
-# To Do List
+
+## To Do List
    - Slider control for Presentation
    - Zoom Control
    - Control Play Files 
