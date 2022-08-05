@@ -49,6 +49,7 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
 
 ## Known Issues:
 The Time Total for Current Slide and Presentation does not currently function.
+
 The presentation title won't load unless TP loads the presentation file for you
 
 
