@@ -57,7 +57,6 @@ Open an issue on github or join offical [TouchPortal Discord](https://discord.gg
 
 
 # To Do List
-   - To Do List
    - Slider control for Presentation
    - Zoom Control
    - Control Play Files 
