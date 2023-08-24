@@ -1,2 +1,3 @@
-Fixed Presentation Title not appearing properly
-Temporarily removed un-used states 
+Two New Actions:
+1. Run Macro: Allows you to run any VBA macros you have set in your powerpoint
+2. Change Pointer Color / Type
