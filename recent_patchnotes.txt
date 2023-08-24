@@ -1,3 +1,5 @@
+V1.0.2 / V1.0.3
+Fixed issue where state not created for Presentation Name
 Two New Actions:
 1. Run Macro: Allows you to run any VBA macros you have set in your powerpoint
 2. Change Pointer Color / Type
